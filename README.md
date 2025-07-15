@@ -1,2 +1,25 @@
 # ml-book-code
- Official Python code repository for the book Data-Driven: Practical Machine Learning. Contains complete source code for all chapters, including data preprocessing, model training, evaluation, deployment scripts, and real-world project implementations.
+
+这是《数据驱动：机器学习实战之道》一书的官方代码仓库。
+
+本仓库包含书中所有章节的完整配套源码，涵盖：
+
+- 数据预处理与特征工程
+- 各类监督学习与无监督学习算法的实现与调用
+- 模型评估、调参与可视化
+- 多个完整的实战项目案例（含训练脚本与预测逻辑）
+- 部署相关脚本与工程化代码结构
+
+📁 本仓库以 `.py` 脚本为主，部分章节也包含必要的 notebook 用于展示可视化过程。
+
+📌 本书使用的数据集将根据章节需求提供下载链接，或通过代码自动下载。
+
+欢迎读者结合本仓库代码进行复现与拓展，也欢迎提出 issue 交流学习过程中的问题。
+
+---
+
+📘 图书信息：
+
+- 书名：数据驱动：实用机器学习  
+- 作者：一个处女座的程序猿  
+- 出版时间：2025年6月
