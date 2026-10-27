@@ -9,7 +9,7 @@
 ## 📖 About the Book
 
 - **Title**: Data Driven: A Practical Guide to Machine Learning (《数据驱动：机器学习实战之道》)
-- **Author**: 一个处女座的程序猿 (A Virgo Programmer)
+- **Author**: 一个处女座的程序猿
 - **Publication**: Mid-2025
 - **Writing**: Five years of work; a 700,000-character original manuscript and an approximately 350,000-character final manuscript
 
